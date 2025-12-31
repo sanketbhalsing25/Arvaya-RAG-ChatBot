@@ -7,3 +7,4 @@ langchain-openai
 langchain-pinecone
 langchain-community
 -e .
+langchain-huggingface
